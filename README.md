@@ -48,5 +48,6 @@ MIT © [Zoltan Kochan](http://kochan.io)
 - [istanbul](https://github.com/gotwarlost/istanbul): Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests
 - [mocha](https://github.com/mochajs/mocha): simple, flexible, fun test framework
 - [mos](https://github.com/zkochan/mos): Keeps your markdown files up to date
+- [semantic-release](https://github.com/semantic-release/semantic-release): automated semver compliant package publishing
 
 <!--/@-->
