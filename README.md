@@ -1,5 +1,7 @@
 # mos-plugin-scripts
 
+[![Join the chat at https://gitter.im/zkochan/mos-plugin-scripts](https://badges.gitter.im/zkochan/mos-plugin-scripts.svg)](https://gitter.im/zkochan/mos-plugin-scripts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A [mos](https://github.com/zkochan/mos) plugin that generates a section with npm scripts descriptions
 
 <!--@shields('deps', 'travis', 'npm', 'coveralls')-->
